@@ -1,12 +1,12 @@
 # KopiNako
-Aplikasi desktop layanan pembelian kopi di Kopi Nako Depok
+<p>Aplikasi desktop layanan pembelian kopi di Kopi Nako Depok</p>
 
-Anda dapat memiliki aplikasi ini dengan membayar sebesar 800rb.
+<p>Anda dapat memiliki aplikasi ini dengan membayar sebesar 800rb.</p>
 
-Kontak yang dapat anda hubungi:
-WA: 0811-3827-421
-IG: @ar.code_
-Email: arlanbutarbutar@netmedia-framecode.com
+<h6>Kontak yang dapat anda hubungi:</h6>
+<p>WA: 0811-3827-421</p>
+<p>IG: @ar.code_</p>
+<p>Email: arlanbutarbutar@netmedia-framecode.com</p>
 
-Anda juga dapat melihat layanan saya yang lain di https://www.netmedia-framecode.com
-terima kasih telah mampir :) .
+<p>Anda juga dapat melihat layanan saya yang lain di https://www.netmedia-framecode.com</p>
+<p>terima kasih telah mampir :) .</p>
